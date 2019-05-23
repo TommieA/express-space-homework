@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git@git.generalassemb.ly:WebDev-Connected-Classroom/space-Hw.git"
   },
-  "author": "",
+  "author": "Pantyboy",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -19,6 +19,6 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "mocha": "^5.2.0",
-    "supertest": "^3.3.0"
+    "supertest": "^3.4.2"
   }
 }
